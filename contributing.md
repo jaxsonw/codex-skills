@@ -1,11 +1,17 @@
-## Contributing
+# Contributing
 
-### Community values
+This is Jaxson's personal Codex skills catalog.
 
-- **Be kind and inclusive.** Treat others with respect; we follow the [Contributor Covenant](https://www.contributor-covenant.org/).
-- **Assume good intent.** Written communication is hard - err on the side of generosity.
-- **Teach & learn.** If you spot something confusing, open an issue or PR with improvements.
+## Guidelines
 
-### Security & responsible AI
+- Keep skills narrow, practical, and repeatable.
+- Put only trigger-critical guidance in `SKILL.md`; move long references into `references/`.
+- Prefer scripts for fragile or repetitive workflows.
+- Do not commit secrets, private tokens, copied cookies, production credentials, or customer data.
+- Preserve license files for imported skills.
 
-Have you discovered a vulnerability or have concerns about model output? Please e-mail **security@openai.com** and we will respond promptly.
+## Imported Skills
+
+Skills under `skills/.system` and `skills/.curated` may come from upstream OpenAI examples. Treat them as imported references unless they are intentionally customized.
+
+When editing imported skills, keep changes small and note why the local version differs from upstream.

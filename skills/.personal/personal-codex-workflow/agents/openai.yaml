@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jaxson Workflow"
+  short_description: "Use Jaxson's default Codex workflow"
+  default_prompt: "Use my default Codex workflow for this repo task: inspect first, keep changes scoped, preserve my edits, verify the result, and explain clearly in Chinese."
