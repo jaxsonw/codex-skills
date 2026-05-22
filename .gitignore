@@ -4,3 +4,7 @@
 # Python bytecode files
 __pycache__/
 *.pyc
+
+# Local-only personal notes and skills
+PERSONALIZE.md
+skills/.personal/

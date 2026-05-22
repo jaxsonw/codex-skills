@@ -6,18 +6,6 @@
 $skill-installer install https://github.com/jaxsonw/codex-skills/tree/main/skills/.curated/<skill-name>
 ```
 
-个人 skill 使用：
-
-```text
-$skill-installer install https://github.com/jaxsonw/codex-skills/tree/main/skills/.personal/<skill-name>
-```
-
-## Personal
-
-| Skill | Use it for |
-| --- | --- |
-| `personal-codex-workflow` | Jaxson 的默认协作、代码修改、审查、验证和中文回复偏好。 |
-
 ## Curated
 
 | Skill | Use it for |

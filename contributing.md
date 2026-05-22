@@ -1,6 +1,6 @@
 # Contributing
 
-This is Jaxson's personal Codex skills catalog.
+This is Jaxson's curated Codex skills catalog for public official/community skills.
 
 ## Guidelines
 

@@ -14,16 +14,16 @@
 
 建议先装 1-3 个，不要一次装太多。体验顺序：
 
-1. `personal-codex-workflow`
-2. `openai-docs`
-3. `playwright`
+1. `openai-docs`
+2. `playwright`
+3. `pdf`
 
 安装命令示例：
 
 ```text
-$skill-installer install https://github.com/jaxsonw/codex-skills/tree/main/skills/.personal/personal-codex-workflow
 $skill-installer install https://github.com/jaxsonw/codex-skills/tree/main/skills/.curated/openai-docs
 $skill-installer install https://github.com/jaxsonw/codex-skills/tree/main/skills/.curated/playwright
+$skill-installer install https://github.com/jaxsonw/codex-skills/tree/main/skills/.curated/pdf
 ```
 
 安装完成后重启 Codex。
@@ -31,10 +31,6 @@ $skill-installer install https://github.com/jaxsonw/codex-skills/tree/main/skill
 ## 可以怎么试
 
 复制下面任意一句到 Codex：
-
-```text
-用 personal-codex-workflow 帮我检查这个仓库，告诉我最应该先整理哪里。
-```
 
 ```text
 用 openai-docs 查一下现在做语音转文字应该用哪个 OpenAI API，并给我一个最小可运行示例。

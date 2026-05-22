@@ -25,9 +25,10 @@
 
 ## 4. 本仓库放置规则
 
-- 个人原创：`skills/.personal/<skill-name>/`
 - 官方或社区整理：`skills/.curated/<skill-name>/`
 - 系统兼容或 OpenAI 内置参考：`skills/.system/<skill-name>/`
+
+个人原创或私有 workflow 不放进这个公开仓库；如需本地保存，放在被 `.gitignore` 忽略的 `skills/.personal/`。
 
 文件夹名使用小写短横线，例如：
 
