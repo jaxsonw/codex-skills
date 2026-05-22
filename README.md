@@ -51,6 +51,12 @@ $skill-installer install https://github.com/jaxsonw/codex-skills/tree/main/skill
 
 ## For User Groups
 
+扫码加入「Codex 使用交流群 4」：
+
+![Codex 使用交流群 4](docs/assets/codex-user-group-4-qr.jpg)
+
+二维码 7 天内有效，有效期至 2026-05-29。过期后请重新获取最新二维码。
+
 如果你是从用户群里看到这个仓库，先看 [`docs/USER_GROUP_GUIDE.md`](docs/USER_GROUP_GUIDE.md)。里面有：
 
 - 推荐体验路径。
