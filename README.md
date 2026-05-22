@@ -53,7 +53,7 @@ $skill-installer install https://github.com/jaxsonw/codex-skills/tree/main/skill
 
 扫码加入「Codex 使用交流群 4」：
 
-![Codex 使用交流群 4](docs/assets/codex-user-group-4-qr.jpg)
+<img src="docs/assets/codex-user-group-4-qr.jpg" alt="Codex 使用交流群 4" width="320">
 
 二维码 7 天内有效，有效期至 2026-05-29。过期后请重新获取最新二维码。
 
